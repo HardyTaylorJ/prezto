@@ -1,3 +1,6 @@
+#Personal copy for personal use
+
+
 Prezto — Instantly Awesome Zsh
 ==============================
 
