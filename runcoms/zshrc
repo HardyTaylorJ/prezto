@@ -11,3 +11,10 @@ if [[ -s "${ZDOTDIR:-$HOME}/.zprezto/init.zsh" ]]; then
 fi
 
 # Customize to your needs...
+
+alias sshh='ssh limbic@25.9.30.121'
+alias sshhx="ssh -X limbic@25.9.30.121 'x2x -east -to :0'"
+
+# cowsay with tux and all fortunes
+fortune -a | cowsay -nf tux
+
